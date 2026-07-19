@@ -1,0 +1,25 @@
+filename = 'createcoolingfan-1.1.jar'
+name = 'Create Cooling Fan'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'createcoolingfan-1.1-for-create-6.0.6+.jar'
+
+[download]
+hash = '0033b8d68af99537dea9ab1baaeac47cce2c2f0e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8399913
+project-id = 1603577
+
+[[x-prismlauncher-dependencies]]
+addonId = '74072'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
