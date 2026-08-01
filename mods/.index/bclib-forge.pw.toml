@@ -1,19 +1,19 @@
-filename = 'bclib-20.0.11.jar'
+filename = 'BCLib-20.0.12.jar'
 name = 'BCLib'
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'BCLib-20.0.11 [1.20.1]'
+x-prismlauncher-version-number = 'BCLib-20.0.12 [1.20.1]'
 
 [download]
-hash = 'f2301b06f9195841930ee2969b11a00d9b77a578'
+hash = 'e3fd26fd0a0a06c007279400fd09e6e71b274c2d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8381143
+file-id = 8534544
 project-id = 1435106
 
 [[x-prismlauncher-dependencies]]

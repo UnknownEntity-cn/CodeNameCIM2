@@ -1,25 +1,25 @@
-filename = 'leawind_third_person-v2.2.0-mc1.20-1.20.1-forge.jar'
+filename = 'leawind_third_person-3.0.0-beta.1+forge-1.20.1.jar'
 name = "Leawind's Third Person"
 side = ''
 x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.2.0-mc1.20-1.20.1-forge'
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '3.0.0-beta.1 for 1.20.1 forge'
 
 [download]
-hash = 'acd53eaae56f6bc0b3b60b9cda1f37dcc71ec9d3'
+hash = 'ce96e7cb0d3da5a39aba8b83a224ee8613444b0d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5961735
+file-id = 8547714
 project-id = 930880
 
 [[x-prismlauncher-dependencies]]
-addonId = '348521'
+addonId = '667299'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '419699'
+addonId = '1575322'
 type = 'REQUIRED'
