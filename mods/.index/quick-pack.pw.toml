@@ -1,18 +1,18 @@
-filename = 'quick-pack-forge-1.3.2+1.20.1-all.jar'
+filename = 'quick-pack-forge-1.4.0+1.20.1-all-srg.jar'
 name = 'quick-pack'
-side = ''
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.19.4', '1.20', '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'quick-pack forge-1.3.2+1.20.1'
+x-prismlauncher-version-number = 'quick-pack Forge 1.4.0+1.20.1'
 
 [download]
-hash = '2e6c26fc84ba2aa11742234d587d75d841a3bdd1'
+hash = 'bad11f68742a5b29404d11f74a4fb7e01535048a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8384343
+file-id = 8535804
 project-id = 1380888
