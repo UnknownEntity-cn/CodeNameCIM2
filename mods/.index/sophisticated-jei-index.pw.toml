@@ -1,28 +1,36 @@
-filename = 'sophisticated_jei_index-1.1.2+1.20.1.jar'
+filename = 'sophisticated_jei_index-1.2.1+1.20.1.jar'
 name = 'Sophisticated JEI Index'
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'sophisticated_jei_index-1.1.2+1.20.1.jar'
+x-prismlauncher-version-number = 'sophisticated_jei_index-1.2.1+1.20.1.jar'
 
 [download]
-hash = '759c92b2c2e0e75d2fa007181e871bccfae0cc9b'
+hash = '887061de37fb4c6ab0c7b8290f27b6ec2372b261'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8546538
+file-id = 8645603
 project-id = 1482785
+
+[[x-prismlauncher-dependencies]]
+addonId = '422301'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '243076'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '378609'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '223794'
-type = 'OPTIONAL'
+addonId = '238222'
+type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '1222890'
@@ -33,13 +41,5 @@ addonId = '580555'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '238222'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '422301'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '243076'
+addonId = '223794'
 type = 'OPTIONAL'

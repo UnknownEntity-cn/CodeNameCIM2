@@ -1,0 +1,21 @@
+filename = 'CreateDragonsPlus-1.11.7.jar'
+name = 'Create: Dragons Plus'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Create: Dragons Plus 1.11.7 for Create 1.20.1-6.0.8'
+
+[download]
+hash = 'e77dbfcbfa732cc70e685fb2c427b062195c7e76'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8623168
+project-id = 1216624
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
