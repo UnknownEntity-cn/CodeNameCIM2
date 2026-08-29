@@ -155,10 +155,10 @@ function getCoilCount(machine) {
 function levelParallelModify(machine, recipe) {
 	/**
 	 * 
-	 * @param {number} parallelNumber 
+	 * @param {number} parallel 
 	 */
-	function parallel(parallelNumber) {
-		return machine.applyParallel(recipe, parallelNumber)
+	function parallel(parallel) {
+		return machine.applyParallel(recipe, parallel)
 	}
 
 	switch (getCoilLevel(machine)) {
