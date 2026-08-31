@@ -68,7 +68,7 @@ MBDMachineEvents.onRecipeWorking(($) => {
 	levelMultiplierModify(machine)
 })
 
-MBDMachineEvents.onBeforeRecipeModify(($) => {
+MBDMachineEvents.onBeforeRecipeWorking(($) => {
 	let event = $.getEvent()
 
 	/**
